@@ -1,0 +1,22 @@
+"name": "practica-orm-avanzadax2x2",
+  "version": "1.0.0",
+  "description": "Practica ORM Avanzadax2",
+  "main": "server.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SoftwareMaker1909/practica-orm-avanzadax2x2.git"
+  },
+  "keywords": [
+    "ORM",
+    "Avanzada"
+  ],
+  "author": "Diego Nolasco",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SoftwareMaker1909/practica-orm-avanzadax2x2/issues"
+  },
+  "homepage": "https://github.com/SoftwareMaker1909/practica-orm-avanzadax2x2#readme"
+}
